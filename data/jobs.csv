@@ -1,0 +1,222 @@
+,TITRE_OFFRE,DATE_PUB_OFFRE,RESUME_OFFRE
+0,Stage en apprentissage statistique pour la prévision éolienne,Publiée le 18/09/2025 22:01. ,"Stage, Montréal, Canada.Entreprise/Organisme :Polytechnique Montréal et Hydro-Québec, CanadaNiveau d'études :MasterSujet :Détection des rampes de puissance du vent pour la production éolienne avec l'apprentissage profondDate de début :janvier 2026 ou avantDurée du contrat :4 moisRémunération :Bourse MitacsDescription :Le projet vise à développer un modèle d’apprentissage profond basé sur des réseaux de neurones convolutifs (CNN) pour la détection automatique des rampes de puissance éolienne à partir de prévisions météorologiques à haute résolution. Cette approche novatrice consiste à adapter un modèle existant de raffinement spatial des prévisions de vent vers une tâche de classification des événements de rampes, reproduisant ainsi le travail d’un météorologue expérimenté. Le projet inclut la mise en place de méthodes pour traiter le déséquilibre des classes, la comparaison de différentes architectures (U-Net, ResNet, DenseNet, Vision Transformers), et l’application en temps réel comme preuve de concept. Les outils et codes développés seront rendus libres d’accès pour favoriser leur adoption par l’industrie éolienne et améliorer l’intégration de l’énergie renouvelable dans le réseau électrique.En savoir plus :https://www.polymtl.ca/expertises/apprentissage-profond-pour-la-prevision-eolienneContact :julie.carreau@polymtl.ca"
+1,M2 internship in Genetic Epidemiology,Publiée le 12/09/2025 09:15. ,"Stage, Institut Pasteur de Lille, 1 rue du Professeur Calmette, 59000 Lille.Entreprise/Organisme :Inserm, Institut Pasteur de LilleNiveau d'études :MasterDescription :Description:
+A M2 internship is available at Inserm UMR1167 unit – Risk factors and molecular determinants of aging-related diseases. The trainee will work under the supervision of Céline Bellenguez, in a multidisciplinary team which is a world leader in the genetic epidemiology of Alzheimer’s disease (AD). This disease results from the interaction between multiple factors: in addition to 14 modifiable risk factors, more than 80 genetic loci are associated with AD risk. Deciphering the substantial genetic component of AD, including its genetic heterogeneity, is necessary to better understand the biological mechanisms underlying the disease and to develop efficient precision medicine. In this context, the objective of the internship will be to identify subgroups of genetic variations associated with AD risk and involved in the same biological pathways. This will be done by applying clustering approaches to genome-wide association studies (GWAS) summary statistics.
+This internship could lead to an application to the graduate school funding for a thesis.
+
+Required qualifications and skills:
+Master 2 in biostatistics, data science, genetic epidemiology or related subjects
+Programming skills in R as well as another language such as Perl or Python
+English proficiency
+Knowledge of the Unix/Linux environment is a plus
+
+Application:
+Interested candidates should send a CV and a cover letter (in French or in English) to Céline Bellenguez (celine.bellenguez@pasteur-lille.fr).En savoir plus :No linkM2_internship_genetic_Alzheimer.pdfContact :celine.bellenguez@pasteur-lille.fr"
+2,"Offre de thèse ""Clinical information extraction from medical reports""",Publiée le 11/09/2025 16:29. ,"Thèse, Lyon.Entreprise/Organisme :Université Lyon 2 / Laboratoire ERICNiveau d'études :MasterDate de début :01/01/2026Description :Dans le cadre de l’ANR IMAGE-TEXT-AVC, le laboratoire ERIC propose une thèse sur l’extraction d’information clinique de documents médicaux.En savoir plus :https://eric.msh-lse.fr/offre-de-these-clinical-information-extraction-from-medical-reports/PhD Offer - ANR Image-Texte-AVC.pdfContact :adrien.guille@univ-lyon2.fr"
+3,Stage M2 Maternal tobacco smoking and psychosocial stress in pregnancy and child respiratory health,Publiée le 10/09/2025 08:46. ,"Stage, 38700 La Tronche (Grenoble).Entreprise/Organisme :INSERMNiveau d'études :MasterSujet :Interactions between maternal tobacco smoking and psychosocial stress during pregnancy and child respiratory health: data analysis of the ELFE cohort studyDate de début :01/01/2026Durée du contrat :6 monthsSecteur d'activité :RechercheDescription :Background
+Prenatal exposure to maternal smoking is a major determinant of child respiratory health. Increasing evidence indicates that maternal psychosocial stress during pregnancy also impacts child respiratory health [1-5]. As these exposures may affect similar biological pathways, they potentially have synergistic effects. However, studies investigating the interaction between maternal smoking and psychosocial stress during pregnancy on child respiratory health are lacking. 
+In a recent (unpublished yet) study conducted in a large project (Exposome Impulsion Project ; https://exposomeinserm.fr), we assessed the effects of the interactions of maternal tobacco smoking and psychosocial stress during pregnancy on the development of child wheezing and asthma in 13,510 mother-child pairs from the ELFE cohort (Etude française longitudinale depuis l’enfance) [6; https://www.elfe-france.fr] by using survival Cox models. Preliminary results support a complex moderating role of cumulative prenatal maternal psychosocial stress in the relationship between maternal smoking and child respiratory health.  
+
+Aims of the internship
+To further explore these associations, we propose to investigate biological markers - maternal hair cortisol measured at child birth and cord blood cytokines - measured in  subsamples of respectively 834 and 1019 ELFE mothers. Maternal cortisol has been shown to be a good proxy for chronic maternal stress [7]. Inflammation, assessed by cord blood inflammatory biomarkers (IL-6, IL-8, IL-1b…), is suspected to be an underlying mechanism of the association between maternal psychosocial stress and smoking and child respiratory health [1]. The aims of this internship are to:
+1/ Estimate the associations between the psychosocial stress indicators we developed based on the questionnaire data and levels of maternal hair cortisol
+2/ Study the effect of the interaction between maternal hair cortisol and tobacco smoking during pregnancy on child respiratory health using Cox regression models
+3/ Estimate the associations of maternal psychosocial stress and maternal tobacco smoking with cord blood cytokines levels. 
+
+All data are already available. The results will be interpreted jointly with results from experimental models (animal studies) that are performed in parallel. 
+
+References
+[1] Al‐Hussainy, A., & Mohammed, R. (2021). Consequences of maternal psychological stress during pregnancy for the risk of asthma in the offspring. Scandinavian Journal of Immunology, 93(1), e12919.
+[2] Adgent, M. A., Buth, E., Noroña-Zhou, A., Szpiro, A. A., Loftus, C. T., Moore, P. E., ... & Carroll, K. N. (2024). Maternal stressful life events during pregnancy and childhood asthma and wheeze. Annals of Allergy, Asthma & Immunology, 132(5), 594-601.
+[3] Brew, B. K., Gong, T., Ohlin, E., Hedman, A. M., Larsson, H., Curman, P., ... & Almqvist, C. (2024). Maternal mental health disorders and offspring asthma and allergic diseases: The role of child mental health. Pediatric Allergy and Immunology, 35(2), e14085.
+[4] Magnus, M. C., Wright, R. J., Røysamb, E., Parr, C. L., Karlstad, Ø., Page, C. M., ... & Nystad, W. (2018). Association of maternal psychosocial stress with increased risk of asthma development in offspring. American journal of epidemiology, 187(6), 1199-1209.
+[5] Ramsey, N. B., Chiu, Y. H. M., Hsu, H. H. L., Bosquet Enlow, M., Coull, B. A., Wright, R. J., & Carroll, K. N. (2024). Cumulative maternal lifetime stress & child asthma: effect modification by BMI. Stress, 27(1), 2435262.
+[6] Charles, M. A., Thierry, X., Lanoe, J. L., Bois, C., Dufourg, M. N., Popa, R., ... & Geay, B. (2020). Cohort profile: the French national cohort of children (ELFE): birth to 5 years. International journal of epidemiology, 49(2), 368-369j.
+[7] Kim, M. Y., Kim, G. U., & Son, H. K. (2020). Hair cortisol concentrations as a biological marker of maternal prenatal stress: a systematic review. International Journal of Environmental Research and Public Health, 17(11), 4002.En savoir plus :https://exposomeinserm.fr/Impulsion_Exposome_Internship2026_01092025_vf.pdfContact :aurelie.nakamura@univ-grenoble-alpes.fr"
+4,Stage M2 : Impact des biothérapies sur les trajectoires de fonction respiratoire dans l’asthme sévèr,Publiée le 09/09/2025 11:44. ,"Stage, Grenoble.Entreprise/Organisme :Université Grenoble AlpesNiveau d'études :MasterSujet :Impact des biothérapies sur les trajectoires de fonction respiratoire dans l’asthme sévèreDate de début :01 01 2026Durée du contrat :4 à 6 moisSecteur d'activité :rechercheDescription :Contexte : 
+L’asthme sévère ne représente que 3 à 4 % des asthmes de l’adulte, mais on considère qu’il cumule à lui seul plus de 60 % des coûts médicaux liés à l’asthme. Un patient atteint d’asthme sévère a le plus souvent présenté de multiples exacerbations avant qu’un traitement optimal ne soit mis en route. Il existe une relation forte entre le fait de présenter des exacerbations itératives et le fait d’avoir une fonction respiratoire altérée à l’aune du volume expiratoire maximal en 1 seconde (VEMS). Si le socle du traitement de l’asthme reste la corticothérapie inhalée, l’avènement de traitements par biothérapies au litant des années 2010 a révolutionné la prise en charge de l’asthme sévère. Toutefois, les objectifs des études portant sur les biothérapies ont bien davantage mis en avant le contrôle des exacerbations que l’amélioration de la fonction respiratoire. Chez les patients asthmatiques sévères dont la fonction respiratoire est dans la majorité des cas altérée au moment de la mise en route d’une biothérapie, l’amélioration voire la normalisation de la fonction garde toutefois toute sa place, tant pour éviter des symptômes limitant les capacités d’exercice que pour prévenir le remodelage bronchique.
+La fonction respiratoire des patients asthmatiques sévères reste peu étudiée. En particulier, la façon dont la fonction respiratoire évolue grâce à la prescription des biothérapies est mal connue. Le registre RAMSES regroupe les données de 2000 patients asthmatiques sévères, suivis entre 3 et 7 ans, dont le VEMS moyen au moment de leur inclusion est de 77 ± 22 % de la valeur prédite et dont un peu plus de la moitié des patients a un VEMS anormal (z-scoreEn savoir plus :https://chaire-esante.fr/2026 - stage - asthme sévère.pdfContact :sbailly@chu-grenoble.fr"
+5,Machine Learning pour l’exploration de la sous-dominance dans les génomes polyploïdes,Publiée le 01/09/2025 11:27. ,"Thèse, IRHS / LAREMA.Entreprise/Organisme :Université d'AngersNiveau d'études :MasterSujet :cf. fichier jointDate de début :01/10/2025Durée du contrat :3 ansRémunération :base fonction publiqueSecteur d'activité :Recherche publiqueDescription :cf. fichier jointEn savoir plus :https://rabier.github.io , https://blog.univ-angers.fr/panloup/ , https://irhs.angers-nantes.hub.insujetthese2025.pdfContact :charles-elie.rabier@univ-angers.fr"
+6,Development of filtering algorithms based on hidden Markov processes,Publiée le 25/08/2025 12:30. ,"CDD, MONTPELLIER.Entreprise/Organisme :INRAENiveau d'études :MasterDate de début :01/11/2025Durée du contrat :1 anDescription :Your objective will be to develop algorithms to characterize growth curves. These
+algorithms will be based on hidden Markov models and associated filtering methods.
+This work follows on from a previously published paper (https://hal.inrae.fr/hal-
+04563781v1). We will adapt this model to various other contexts. You will need to
+implement this type of Kalman filter algorithm in R or Python, then optimize it using
+an EM (Expectation-Maximization) approachEn savoir plus :https://nextcloud.inrae.fr/s/Apnd73ELfWaRHdMCDD_cloez.pdfContact :bertrand.cloez@inrae.fr"
+7,PhD Position - Targer trial emulation - Grenoble,Publiée le 08/07/2025 12:47. ,"Thèse, Laboratoire HP2, U1300, Univ. Grenoble Alpes, Inserm - Faculté de Médecine, Grenoble.Entreprise/Organisme :Université Grenoble AlpesNiveau d'études :MasterSujet :Exploring the impact of data sources and methodological choices on the estimation of drug efficacy through the emulated target trials frameworkDate de début :November 2025Durée du contrat :3 yearsRémunération :2200 € (brut)/monthDescription :Project
+To access the market, the benefits of medications must be supported by solid evidence.
+Randomized controlled trials (RCTs) are considered the gold standard for producing such
+evidence because they provide a rigorous framework. Yet, increasing access to large
+databases and recent methodological advances such as target trial emulation offer new
+perspectives to produce valid causal inferences on the risk-benefit of medicines. The
+objectives of this project are to explore the feasibility of target trial emulation using different
+types of observational data (administrative vs. electronic health records) and to evaluate the
+heterogeneity of treatment effect estimates based on methodological choices. By better
+understanding the sources of variation in effect estimates between RCTs and emulated
+studies, this project will provide key insights into the reliability of these approaches in decision-
+making regarding the market approval and reimbursement of medications.
+
+Main activities
+Literature review and conception of target trials protocols, data management, data analysis,
+data reporting, and article writing.
+
+Skills
+Technical skills in data management and analysis (SAS or R) are required.
+Knowledge on causal inference, clinical research and drug development would be preferred,
+and previous experience with the French SNDS would be a great asset.
+Languages: French or fluent English reading, writing and speakingEn savoir plus :https://www.univ-grenoble-alpes.fr/PhD Position_HP2_Roustit_Giai.pdfContact :matthieu.roustit@univ-grenoble-alpes.fr"
+8,PhD Position:  Deep Generative Models of Physical Dynamics,Publiée le 11/06/2025 17:44. ,"Thèse, Paris.Entreprise/Organisme :Sorbonne Universite, Institut des Systèmes Intelligents et de Robotique (ISIR)Niveau d'études :MasterSujet :Abstract: AI4Science is an emerging field investigating the potential of AI to advance scientific discovery, with deep learning playing a central role in modeling complex natural phenomena. Within this context, deep generative modeling—which already enables the synthesis of high-dimensional data across modalities such as text, images, and audio—is now opening new avenues for simulating and understanding complex physical systems.
+This PhD project aims to explore and advance generative deep learning architectures—such as diffusion models, flow-matching networks, and autoregressive transformers—for modeling complex physical dynamical systems arising in domains such as climate, biology, and fluid mechanics. These models hold strong potential for learning flexible, data-driven representations of physical laws. By developing generalizable, cross-physics generative models, this research contributes to the broader vision of AI4Science: accelerating scientific discovery through learned simulation and abstraction.Date de début :November or December 2025Durée du contrat :36 moisRémunération :2200 per Month Gross Salary + possible teaching vacationsSecteur d'activité :Computer Science, Artificial Intelligence, Machine LearningDescription :This PhD project aims to explore and advance generative deep learning architectures—such as diffusion models, flow-matching networks, and autoregressive transformers—for modeling complex physical dynamical systems arising in domains such as climate, biology, and fluid mechanics. These models hold strong potential for learning flexible, data-driven representations of physical laws. By developing generalizable, cross-physics generative models, this research contributes to the broader vision of AI4Science: accelerating scientific discovery through learned simulation and abstraction.
+
+Research Objectives
+
+The overarching research question is: Can we develop generative models that learn structured, physically grounded representations of dynamical systems—enabling synthesis, adaptation, and generalization across physical regimes and multiphysics settings? It unfolds into several complementary directions:
+
+Latent Generative Models for Physical Dynamics
+
+The objective is to design generative models—such as diffusion, flow-matching, or autoregressive models—that learn compact and interpretable latent representations of spatiotemporal dynamics governed by PDEs. These models should:
+•	Capture uncertainty and multimodality in solution trajectories.
+•	Generalize across parametric variations.
+
+Learning Across Multiphysics Systems
+
+To enable transfer learning across heterogeneous physics, we will explore shared latent representations across families of PDEs:
+•	Using encode–process–decode frameworks.
+•	Applying contrastive or multitask training to uncover reusable physical abstractions.
+•	Designing models invariant to space/time resolution and units.
+This direction builds toward foundation-like models that capture generalizable physics priors across simulation families.
+
+Few-Shot and In-Context Generalization to New Physics
+
+To support scientific modeling in data-scarce settings, we will develop methods for few-shot generalization such as:
+•	Fine-tuning latent priors to new PDE systems using limited examples.
+•	Exploring meta-learning and prompt-based adaptation techniques (inspired by in-context learning in language models).
+•	Incorporating known physical constraints into the generative process.
+The goal is to enable rapid and physically consistent adaptation to previously unseen dynamics with minimal data and supervision.
+
+Position and Working Environment
+
+The PhD studentship is a three years position starting in October/November 2025. It does not include teaching obligation, but it is possible to engage if desired. The PhD candidate will work at Sorbonne Université (S.U.), in the center of Paris. He/She will integrate the MLIA team (Machine Learning and Deep Learning for Information Access) at ISIR (Institut des Systèmes Intelligents et de Robotique). 
+
+References
+
+Chen, W., Song, J., Ren, P., Subramanian, S., Morozov, D., & Mahoney, M. W. (2024). Data-Efficient Operator Learning via Unsupervised Pretraining and In-Context Learning. 1–21. http://arxiv.org/abs/2402.15734
+Hao, Z., Su, C., Liu, S., Berner, J., Ying, C., Su, H., Anandkumar, A., Song, J., & Zhu, J. (2024). DPOT: Auto-Regressive Denoising Operator Transformer for Large-Scale PDE Pre-Training. Icml. http://arxiv.org/abs/2403.03542
+Kassai Koupai, A., Benet, J. M., Yin, Y., Vittaut, J.-N., & Gallinari, P. (2024). GEPS: Boosting Generalization in Parametric PDE Neural Solvers through Adaptive Conditioning. NeurIPS. https://geps-project.github.io/
+Kirchmeyer, M., Yin, Y., Donà, J., Baskiotis, N., Rakotomamonjy, A., & Gallinari, P. (2022). Generalizing to New Physical Systems via Context-Informed Dynamics Model. ICML.
+McCabe, M., Blancard, B. R.-S., Parker, L. H., Ohana, R., Cranmer, M., Bietti, A., Eickenberg, M., Golkar, S., Krawezik, G., Lanusse, F., Pettee, M., Tesileanu, T., Cho, K., & Ho, S. (2024). Multiple Physics Pretraining for Physical Surrogate Models. 1–25 http://arxiv.org/abs/2310.02994
+Serrano, L., Wang, T., le Naour, E., Vittaut, J.-N., & Gallinari, P. (2024). AROMA : Preserving Spatial Structure for Latent PDE Modeling with Local Neural Fields. NeurIPS.
+Serrano, L., Kassai, A., Wang, T., Erbacher P.,  Gallinari, P.,  (2025)  Zebra: In-Context Generative Pretraining for Solving Parametric PDEs.
+Zhou, A., Li, Z., Schneier, M., Buchanan Jr, J. R., & Farimani, A. B. (2025). TEXT2PDE: Latent Diffusion Models for Accessible Physics Simulation. ICLR.En savoir plus :https://pages.isir.upmc.fr/gallinari/open-positions/2025-05-01-PhD-Description-Generative-models-Physics.pdfContact :patrick.gallinari@sorbonne-universite.fr"
+9,Ingénieur(e) Data Analyste en pharmacoépidémiologie,Publiée le 19/05/2025 09:45. ,"CDD, 270 boulevard de Sainte Marguerite, 13009 Marseille.Entreprise/Organisme :Assistance Publique – Hôpitaux de MarseilleNiveau d'études :MasterDate de début :Dès que possibleDurée du contrat :1 an renouvelableRémunération :https://www.emploi-collectivites.fr/grille-indiciaire-hospitaliere-ingenieur-hospitalier-ih/4/101.htDescription :Grade et contrat
+Ingénieur hospitalier (rémunération selon expérience conformément à la grille correspondante)
+CDD 1 an renouvelable
+CA et RTT
+Poste à pourvoir dès que possible
+
+Site et service
+Assistance Publique – Hôpitaux de Marseille
+Hôpital Sainte Marguerite
+270 boulevard de Sainte Marguerite, 13009 Marseille
+Service de pharmacologie clinique et pharmacovigilance (cheffe de service : Pr Joëlle Micallef)
+Unité de pharmacoépidémiologie
+
+Organisation du temps de travail et horaires
+•	Poste de jour : Oui
+•	Poste à repos fixe : Oui
+•	Poste à temps plein : Oui
+•	Possibilité d’évolution du poste : Oui
+•	Amplitude horaire du service : 8 h 30 – 19 h 00
+•	Horaires du poste : 9 h 00 – 17 h 00 avec pause déjeuner, du lundi au vendredi, hors samedi, dimanche et jours fériés
+
+Missions générales de l’emploi
+Le poste à pourvoir est un poste d’ingénieur avec une compétence de Data Analyste pour des projets de pharmacoépidémiologie. Ces projets portent sur l’évaluation de l’utilisation, du mésusage et des risques des médicaments psychoactifs, à partir du Système national des données de santé (SNDS). Ces projets sont coordonnés par le Service Hospitalo-Universitaire de Pharmacologie Clinique et Pharmacosurveillance de l’Assistance Publique – Hôpitaux de Marseille qui a une expérience de plus de 20 ans pour la recherche et la conduite d’études en pharmacoépidémiologie.
+La personne recrutée sera en charge du traitement des données du SNDS, en lien direct avec les porteurs du projet. La personne suivra les formations règlementaires pour accéder au portail sécurisé du SNDS (REQ-054-AM, REQ-256-AM et REQ-254-AM ; cf ci-dessous), afin de réaliser le data management et les analyses statistiques.
+
+Activités principales
+•	Constituer les jeux de données exploitables à partir de données brutes extraites du SNDS, en fonction des analyses prévues dans le protocole
+•	Construire les variables nécessaires à l’analyse à partir des informations contenues dans les différentes tables d’intérêt et en vérifier la cohérence
+•	Effectuer les analyses statistiques prévues dans le protocole, vérifier les conditions d’applications et proposer des alternatives
+•	Diffuser et valoriser des résultats sous forme de rapports techniques ou d’articles
+•	Veiller à la reproductibilité et à la documentation des traitements réalisés
+
+Formation et expérience requises
+•	Master ou doctorat en pharmacoépidémiologie, épidémiologie, statistiques, bio-informatique ou santé publique
+•	Expérience appréciée dans l’utilisation des données du SNDS à des fins de recherche, en particulier dans le domaine de la pharmacoépidémiologie
+
+Qualités requises
+•	Travailler en équipe et interagir avec différents interlocuteurs (pharmacologues, pharmacoépidémiologistes, médecins, pharmaciens, partenaires scientifiques)
+•	Capacité à apprendre et s’adapter (langages informatiques, méthodes statistiques et de pharmacoépidémiologie)
+•	Sens de l’organisation et de la planification
+•	Autonomie
+•	Raisonnement analytique
+•	Curiosité intellectuelle
+
+Connaissances souhaitées ou engagement à les acquérir
+•	Formations « Architecture et données du SNIIRAM/SNDS » (REQ-054-AM, 1 jour, e-learning), « Données d’extraction DCIR pour les accès sur projet » (REQ-256-AM, 2,5 jours, Paris) et « Initiation au PMSI à travers le SNDS » (REQ-254-AM, 3 jours, Paris) pour accéder au SNDS
+•	Traiter des données, manipuler et requêter une base de données volumineuse
+•	Programmer dans un environnement informatique contraint (portail sécurisé du SNDS)
+•	Langages informatiques SQL (Oracle) et R (RStudio), éventuellement SAS (Entreprise Guide)
+•	Statistiques multivariées, analyse de données censurées (modèle de Cox, variables dépendantes du temps), analyse de séries chronologiques (ARIMA)
+•	Connaissance du SNDS
+•	Connaissance en pharmacoépidémiologie ou en épidémiologie
+•	Lecture de l'anglais scientifique et technique
+
+Modalités de candidature
+CV et lettre de motivation à thomas.soeiro@ap-hm.fr et joelle.micallef@ap-hm.frEn savoir plus :https://fr.ap-hm.fr/service/pharmacologie-clinique-et-pharmacosurveillance-hopital-sainte-margueriteIngénieur(e) Data Analyste pour un projet de pharmacoépidémiologie 20250516.pdfContact :thomas.soeiro@ap-hm.fr"
+10,Researcher in clinical evaluation and regulation of Digital Medical Devices,Publiée le 14/04/2025 09:41. ,"CDD, Paris (75), France.Entreprise/Organisme :InriaNiveau d'études :MasterDate de début :Between June and August 2025Durée du contrat :2 yearsRémunération :According to experience.Secteur d'activité :Clinical evaluation ; regulation.Description :The HeKA team at Inria, Inserm, and University Paris Cité is seeking a motivated researcher to join the SMATCH (Statistical and AI based Methods for Advanced Clinical Trials CHallenges in Digital Health) project, which is part of the PEPR (“Programme et Equipements Prioritaires de Recherche” - Priority Research Programs and Equipment) Santé Numérique (Digital Health), co-leaded by Inserm and Inria. The objective of the SMATCH project is to develop and apply statistical and AI- based methods with the ultimate goal of accelerating the development of medical interventions (drugs and DMDs) during their evaluation in clinical trials. The consortium is made up of 16 teams, mainly from Inria and Inserm Centers recognized in this field, bringing a unique and complementary expertise in data sciences and AI applied to health problems and specifically to clinical trials.
+AI-based computational models can be used by health care professionals or patients within DMD (using the definition of EU regulation 2017/745) aiming at preventing, diagnosis, monitoring, treating or alleviating disease. These devices impact the health outcome of individuals as any other treatment, but they present many methodological challenges in their clinical evaluation. Further, regulators, are struggling in approving and labelling these DMDs as the clinical evidence provided by stakeholder is heterogeneous. This position will contribute to the development of a framework and guidelines for trials or study designs that could be used to evaluate DMDs. This work will be done with the collaboration of the Digital Health department of the HAS.En savoir plus :https://recrutement.inria.fr/public/classic/fr/offres/2025-087642025-08764.pdfContact :sandrine.boulet@inria.fr"
+11,Permanent research engineer position as Head of Hub Algorithmics & AI pole,Publiée le 07/04/2025 16:24. ,"CDI, Paris 15eme.Entreprise/Organisme :Hub de bioinformatique et biostatistique de l'Institut PasteurNiveau d'études :MasterDurée du contrat :CDISecteur d'activité :bioinformatics, artificial intelligence, managementDescription :The Hub of Bioinformatics and Biostatistics provides analytical support to research units and platforms at the Institut Pasteur. The Hub is committed to this mission through: 
+
+Collaborating on scientific projects, submitted by research teams of our institute, to the Hub. 
+Training scientific staff from the Institut Pasteur Paris or from other institutes of the international network of Instituts Pasteur. 
+Developing tools and applications to be shared with the broader scientific community 
+Interacting directly with scientist upon specific inquiries 
+As head of the Algorithmics, AI, and Mathematical Modeling group, the recruited engineer will focus on applying and developing innovative AI solutions for genomics projects of the Institut Pasteur. He will oversee the group management and be accountable for its project portfolio.
+
+The recruited engineer will work with a team of computational biologists in a collaborative environment, interacting with other teams of the Hub, the Technology Department, the Computational Biology department, and the campus.
+
+As part of the Bioinformatics and Biostatistics Hub, the group lead will:
+
+Manage the group’s collaborative project portfolio
+Ensure the quality of work and scientific contributions of the engineers in the group
+Oversee administrative management and foster an open, collaborative work environment
+Support the professional development of team members
+Lead the methodological development in collaboration with the Computational Biology Department and the campus
+Represent the pole within the Technology Department and the campus
+As a member of the hub’s leadership team, the pole head will participate in the hub’s operational management and contribute to its strategy and implementation.
+
+Reporting: Reports to the Hub Leadership. 
+
+Key Activities: 
+
+Project planning and organization 
+Project coordination, tracking, and resource management 
+Thematic coordination of the group (methodological developments, best practices, etc.) 
+Administrative management of the division 
+Development of collaborators 
+Workplace quality of life improvement 
+Participation in hub leadership 
+The group head role will represent approximately 50% of the workload. Additionally, the recruited candidate will act as a research engineer within the Hub, contributing to collaborative projects, teaching, and consulting in alignment with their leadership responsibilities. 
+
+Profile: 
+
+PhD/Master’s/Engineering degree in Computational Biology, Bioinformatics, Computer Science, Applied Mathematics, Biostatistics, or related fields 
+At least 10 years of experience in a biomedical research institute and/or industry in computational biology, biostatistics, applied mathematics, or bioinformatics 
+Proven expertise in deep learning, algorithmic approaches, and mathematical modeling applied to genomics 
+Knowledge and experience in software development and best practices 
+Strong leadership experience in group and/or project management in a complex organization; experience mentoring students 
+Fluency in French and English, with experience working in multilingual environments 
+Creativity and innovation 
+Collaborative mindset, ability to manage complex and ambiguous situations
+Focus on professional development of team members 
+To apply: 
+
+Click on the following link and select the corresponding profile:
+
+https://hub-jobs2025.pasteur.cloud
+
+Please, submit your updated CV and a cover letter (motivation letter). You may indicate contact information for reference letters (3 max.). They will be automatically contacted when you validate your application.   
+
+We are a team committed to foster a fair, inclusive and diverse work environment. Diversity has been scientifically established as a key factor to improve scientific objectivity. Hence, all applicants will be evaluated solely based on qualification regardless of gender, gender identity, sexual orientation, race or disability.En savoir plus :https://research.pasteur.fr/en/job/permanent-research-engineer-position-as-head-of-hub-algorithmics-Contact :herve.menager@pasteur.fr"
+12,Clustering de données fonctionnelles avec application en océanographie,Publiée le 01/10/2024 09:26. ,"Thèse, Conservatoire National des Arts et Métiers, 2 rue Conté 75003 Paris.Entreprise/Organisme :Conservatoire National des Arts et Métiers, Laboratoire CEDRICNiveau d'études :MasterSujet :Classification non-supervisée pour l'identification de paysages acoustiques homogènesDate de début :Entre fin 2024 et début 2025 en fonction de la date de recrutement du candidatDurée du contrat :3 ansSecteur d'activité :rechercheDescription :Voir pièce jointeEn savoir plus :https://vincentaudigier.weebly.com/uploads/1/7/3/1/17317324/these_cnam_shom_clustering.pdfthese_cnam_shom_clustering.pdfContact :vincent.audigier@cnam.fr"
